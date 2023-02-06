@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2023-02-06 14:11:13 +0800
+date:   2023-01-01 00:00:00 +0800
 categories: jekyll update
 ---
 Initial test with [Jekyll][jekyll].
