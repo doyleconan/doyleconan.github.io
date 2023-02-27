@@ -49,7 +49,7 @@ Track of conference timelines.
 
 |**SIGGRAPH Asia 2023** [URL](https://asia.siggraph.org/2023/submissions/)| | Countdown | 
 |Abstract deadline | 2023-05-16|  |
-|Papers deadline| 2023-05-23 23:59 AoE| <span id="sa23"/> <script>countDownCell("2023-05-23 23:59 GMT-12","sa23")</script> |
+|Papers deadline| 2023-05-23 23:59 AoE| <span id="sa23"/> <script>countDownCell("2023-05-23T23:59-1200","sa23")</script> |
 |Reviews released to authors| - |  |
 |Rebuttals due| - |  |
 |Author notification| - |  |
