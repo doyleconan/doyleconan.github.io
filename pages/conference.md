@@ -4,8 +4,6 @@ title:  "Conference Timeline Tracking"
 date:   2023-02-01 00:00:00 +0800
 categories: jekyll update
 ---
-<span id="demo" data-dates="2023-02-27 14:45 GMT"/> 
-
 <script>
 //countDownCell("demo");
 function pad(num, size) {
