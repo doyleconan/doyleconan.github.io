@@ -58,7 +58,7 @@ Track of conference timelines.
 | | |
 |**EGSR 2023** [URL](https://conferences.eg.org/egsr2023/)| |
 |Abstract deadline | 2023-04-05 | 
-|Papers deadline| 2023-04-12 | <span id="sr23"/> <script>countDownCell("2023-04-12 23:59","sr23")</script> |
+|Papers deadline| 2023-04-12 | <span id="sr23"/> <script>countDownCell("2023-04-12T23:59","sr23")</script> |
 |Reviews released to authors| 2023-05-15 |
 |Rebuttals due| 2023-05-19 |
 |Author notification| 2023-05-26 |
@@ -66,14 +66,14 @@ Track of conference timelines.
 |Conference| 2023-06-28 |
 | | |
 |**ICCV 2023** [URL](https://iccv2023.thecvf.com/) |  |
-|Paper submission deadline | 2023-03-08 (23:59 UTC) | <span id="iccv23"/> <script>countDownCell("2023-03-08 23:59 GMT","iccv23")</script>  |
+|Paper submission deadline | 2023-03-08 (23:59 UTC) | <span id="iccv23"/> <script>countDownCell("2023-03-08T23:59+0000","iccv23")</script>  |
 |Supplementary material deadline| 2023-03-15 (23:59 UTC) |
 |Reviews released to authors| 2023-05-23 |
 |Rebuttal due| 2023-05-31 (23:59 UTC)|
 |Announcement of decisions | 2023-07-13 |
 | | |
 |**SIGGRAPH 2023** [URL](https://s2023.siggraph.org/program/technical-papers/) |  |
-|Paper submission deadline | 2023-01-25 (22:00 UTC) | <span id="sig23"/> <script>countDownCell("2023-01-25 22:00 GMT","sig23")</script>  |
+|Paper submission deadline | 2023-01-25 (22:00 UTC) | <span id="sig23"/> <script>countDownCell("2023-01-25T22:00+0000","sig23")</script>  |
 |Reviews released to authors| 2023-03-05 |
 |Rebuttal due|  2023-03-10 (22:00 UTC)|
 |Announcement of decisions | 2023-03-27 |
