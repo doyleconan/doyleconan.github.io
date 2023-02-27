@@ -75,7 +75,7 @@ Track of conference timelines.
 |Announcement of decisions | 2023-07-13 |
 | | |
 |**SIGGRAPH 2023** [URL](https://s2023.siggraph.org/program/technical-papers/) |  |
-|Paper submission deadline | 2023-01-25 (22:00 UTC) |
+|Paper submission deadline | 2023-01-25 (22:00 UTC) | <span id="sig23"/> <script>countDownCell("2023-01-25 22:00 GMT","sig23")</script>  |
 |Reviews released to authors| 2023-03-05 |
 |Rebuttal due|  2023-03-10 (22:00 UTC)|
 |Announcement of decisions | 2023-03-27 |
