@@ -60,7 +60,7 @@ Track of conference timelines.
 |Abstract deadline | 2023-04-05 | 
 |Papers deadline| 2023-04-12 | <span id="sr23"/> <script>countDownCell("2023-04-12T23:59","sr23")</script> |
 |Reviews released to authors| 2023-05-15 |
-|Rebuttals due| 2023-05-19 |
+|Rebuttals due| 2023-05-19 | <span id="sr23rb"/> <script>countDownCell("2023-05-19T23:59","sr23rb")</script> |
 |Author notification| 2023-05-26 |
 |Final papers due| 2023-06-09 |
 |Conference| 2023-06-28 |
@@ -75,7 +75,7 @@ Track of conference timelines.
 |**SIGGRAPH 2023** [URL](https://s2023.siggraph.org/program/technical-papers/) |  |
 |Paper submission deadline | 2023-01-25 (22:00 UTC) | <span id="sig23"/> <script>countDownCell("2023-01-25T22:00+0000","sig23")</script>  |
 |Reviews released to authors| 2023-03-05 |
-|Rebuttal due|  2023-03-10 (22:00 UTC)|
+|Rebuttal due|  2023-03-10 (22:00 UTC)| <span id="sig23rb"/> <script>countDownCell("2023-03-10T22:00+0000","sig23rb")</script>  |
 |Announcement of decisions | 2023-03-27 |
 |Revised paper deadline | 2023-04-25 |
 |Final version deadline | 2023-05-02 |
