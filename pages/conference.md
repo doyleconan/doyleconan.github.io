@@ -47,6 +47,15 @@ function countDownCell(strDate, tagID){
 
 Track of conference timelines.
 
+|**PG 2023** [URL](https://pg2023.org/call-for-technical-papers)| | Countdown | 
+|Abstract deadline | 2023-06-05|  |
+|Papers deadline| 2023-06-08 23:59 AoE| <span id="pg23"/> <script>countDownCell("2023-06-08T23:59-1200","pg23")</script> |
+|Reviews released to authors| 2023-06-21 |  |
+|Rebuttals due| 2023-06-28 | <span id="pg23reb"/> <script>countDownCell("2023-06-28T23:59-1200","pg23reb")</script> |
+|Author notification| 2023-08-12 |  |
+|Final papers due| 2023-09-01 |  |
+|Conference| 2023-10-10 |  |
+| | |
 |**SIGGRAPH Asia 2023** [URL](https://asia.siggraph.org/2023/submissions/)| | Countdown | 
 |Abstract deadline | 2023-05-16|  |
 |Papers deadline| 2023-05-23 23:59 AoE| <span id="sa23"/> <script>countDownCell("2023-05-23T23:59-1200","sa23")</script> |
