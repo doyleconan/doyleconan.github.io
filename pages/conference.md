@@ -51,7 +51,7 @@ Track of conference timelines.
 |Abstract deadline | 2023-06-05|  |
 |Papers deadline| 2023-06-08 23:59 AoE| <span id="pg23"/> <script>countDownCell("2023-06-08T23:59-1200","pg23")</script> |
 |Reviews released to authors| 2023-07-21 |  |
-|Rebuttals due| 2023-07-28 | <span id="pg23reb"/> <script>countDownCell("2023-06-28T23:59-1200","pg23reb")</script> |
+|Rebuttals due| 2023-07-28 | <span id="pg23reb"/> <script>countDownCell("2023-07-28T23:59-1200","pg23reb")</script> |
 |Author notification| 2023-08-12 |  |
 |Final papers due| 2023-09-01 |  |
 |Conference| 2023-10-10 |  |
