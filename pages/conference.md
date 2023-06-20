@@ -52,7 +52,7 @@ Track of conference timelines.
 |Submission Deadline| 2023-11-10 23:59 PST| <span id="cvpr24"/> <script>countDownCell("2023-11-10T23:59-0800","cvpr24")</script> |
 |Supplementary Deadline| 2023-11-17 23:59 PST| <span id="cvpr24s"/> <script>countDownCell("2023-11-17T23:59-0800","cvpr24s")</script> |
 |Reviews released to authors| 2024-01-23 |  |
-|Rebuttals due| 2024-01-30 | <span id="cvpr24r"/> <script>countDownCell("2024-01-30T23:59-0800","cvpr24r")</script> |
+|Rebuttals due| 2024-01-30 23:59 PST| <span id="cvpr24r"/> <script>countDownCell("2024-01-30T23:59-0800","cvpr24r")</script> |
 |Author notification| 2024-02-26 |  |
 |Conference| 2024-06-19 |  |
 | | |
