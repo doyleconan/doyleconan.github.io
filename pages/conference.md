@@ -47,6 +47,15 @@ function countDownCell(strDate, tagID){
 
 Track of conference timelines.
 
+|**CVPR 2024** [URL](https://cvpr.thecvf.com/Conferences/2024)| | Countdown | 
+|Registration Deadline | 2023-11-03|  |
+|Submission Deadline| 2023-11-10 23:59 PST| <span id="cvpr24"/> <script>countDownCell("2023-11-10T23:59-0800","cvpr24")</script> |
+|Supplementary Deadline| 2023-11-17 23:59 PST| <span id="cvpr24s"/> <script>countDownCell("2023-11-17T23:59-0800","cvpr24s")</script> |
+|Reviews released to authors| 2024-01-23 |  |
+|Rebuttals due| 2024-01-30 | <span id="cvpr24r"/> <script>countDownCell("2024-01-30T23:59-0800","cvpr24r")</script> |
+|Author notification| 2024-02-26 |  |
+|Conference| 2024-06-19 |  |
+| | |
 |**PG 2023** [URL](https://pg2023.org/call-for-technical-papers)| | Countdown | 
 |Abstract deadline | 2023-06-05|  |
 |Papers deadline| 2023-06-08 23:59 AoE| <span id="pg23"/> <script>countDownCell("2023-06-08T23:59-1200","pg23")</script> |
