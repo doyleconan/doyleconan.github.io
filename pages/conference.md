@@ -47,64 +47,51 @@ function countDownCell(strDate, tagID){
 
 Track of conference timelines.
 
-|**SIGGRAPH 2024** [URL](https://s2024.siggraph.org/program/technical-papers/)| | Countdown | 
-|Registration Deadline | 2024-01-23|  |
-|Submission Deadline| 2024-01-24 22:00 GMT| <span id="sig24"/> <script>countDownCell("2024-01-24T22:00-0000","sig24")</script> |
-|Reviews released to authors| 2024-03-05 |  |
-|Rebuttals due| 2024-03-10 22:00 GMT| <span id="sig24r"/> <script>countDownCell("2024-03-10T22:00-0000","sig24r")</script> |
-|Author notification| 2024-03-25 |  |
-|Conference| 2024-07-28 |  |
+|**SIGGRAPH 2026** [URL](https://s2026.siggraph.org/program/technical-papers/)| | Countdown |
+|Registration Deadline | 2026-01-15|  |
+|Submission Deadline| 2026-01-22 23:59 AoE| <span id="sig26"/> <script>countDownCell("2026-01-22T23:59-1200","sig26")</script> |
+|Conference| 2026-07-19 to 2026-07-23 |  |
 | | |
-|**CVPR 2024** [URL](https://cvpr.thecvf.com/Conferences/2024)| | Countdown | 
-|Registration Deadline | 2023-11-03|  |
-|Submission Deadline| 2023-11-10 23:59 PST| <span id="cvpr24"/> <script>countDownCell("2023-11-10T23:59-0800","cvpr24")</script> |
-|Supplementary Deadline| 2023-11-17 23:59 PST| <span id="cvpr24s"/> <script>countDownCell("2023-11-17T23:59-0800","cvpr24s")</script> |
-|Reviews released to authors| 2024-01-23 |  |
-|Rebuttals due| 2024-01-30 23:59 PST| <span id="cvpr24r"/> <script>countDownCell("2024-01-30T23:59-0800","cvpr24r")</script> |
-|Author notification| 2024-02-26 |  |
-|Conference| 2024-06-19 |  |
+|**CVPR 2026** [URL](https://cvpr.thecvf.com/Conferences/2026)| | Countdown |
+|Abstract Deadline | 2025-11-07 23:59 AoE|  |
+|Submission Deadline| 2025-11-13 23:59 AoE| <span id="cvpr26"/> <script>countDownCell("2025-11-13T23:59-1200","cvpr26")</script> |
+|Supplementary Deadline| 2025-11-20 23:59 AoE| <span id="cvpr26s"/> <script>countDownCell("2025-11-20T23:59-1200","cvpr26s")</script> |
+|Reviews released to authors| 2026-01-22 |  |
+|Rebuttals due| 2026-01-29 23:59 AoE| <span id="cvpr26r"/> <script>countDownCell("2026-01-29T23:59-1200","cvpr26r")</script> |
+|Author notification| 2026-02-20 |  |
+|Conference| 2026-06-03 to 2026-06-07 |  |
 | | |
-|**PG 2023** [URL](https://pg2023.org/call-for-technical-papers)| | Countdown | 
-|Abstract deadline | 2023-06-05|  |
-|Papers deadline| 2023-06-08 23:59 AoE|  |
-|Reviews released to authors| 2023-07-21 |  |
-|Rebuttals due| 2023-07-28 |  |
-|Author notification| 2023-08-12 |  |
-|Final papers due| 2023-09-01 |  |
-|Conference| 2023-10-10 |  |
+|**ICCV 2025** [URL](https://iccv.thecvf.com/) | | Countdown |
+|Paper registration deadline | 2025-03-03 23:59 HST| <span id="iccv25reg"/> <script>countDownCell("2025-03-03T23:59-1000","iccv25reg")</script> |
+|Paper submission deadline | 2025-03-07 23:59 HST| <span id="iccv25"/> <script>countDownCell("2025-03-07T23:59-1000","iccv25")</script> |
+|Reviews released to authors| 2025-05-09 |  |
+|Rebuttal due| 2025-05-16 23:59 HST| <span id="iccv25r"/> <script>countDownCell("2025-05-16T23:59-1000","iccv25r")</script> |
+|Announcement of decisions | 2025-06-20 |  |
+|Conference| 2025-10-19 to 2025-10-23 |  |
 | | |
-|**SIGGRAPH Asia 2023** [URL](https://asia.siggraph.org/2023/submissions/)| | Countdown | 
-|Abstract deadline | 2023-05-16|  |
-|Papers deadline| 2023-05-23 23:59 AoE|  |
-|Reviews released to authors| - |  |
-|Rebuttals due| - |  |
-|Author notification| - |  |
-|Final papers due| - |  |
-|Conference| - |  |
+|**SIGGRAPH Asia 2026** [URL](https://asia.siggraph.org/2026/submissions/technical-papers/)| | Countdown |
+|Abstract deadline | 2026-05-05 23:59 AoE| <span id="siga26a"/> <script>countDownCell("2026-05-05T23:59-1200","siga26a")</script> |
+|Papers deadline| 2026-05-12 23:59 AoE| <span id="siga26"/> <script>countDownCell("2026-05-12T23:59-1200","siga26")</script> |
+|Conference| 2026-12-01 to 2026-12-04 |  |
 | | |
-|**EGSR 2023** [URL](https://conferences.eg.org/egsr2023/)| |
-|Abstract deadline | 2023-04-05 | 
-|Papers deadline| 2023-04-12 |  |
-|Reviews released to authors| 2023-05-15 |
-|Rebuttals due| 2023-05-19 |  |
-|Author notification| 2023-05-26 |
-|Final papers due| 2023-06-09 |
-|Conference| 2023-06-28 |
+|**SIGGRAPH Asia 2025** [URL](https://asia.siggraph.org/2025/submissions/technical-papers/)| | Countdown |
+|Abstract deadline | 2025-05-16 23:59 AoE|  |
+|Papers deadline| 2025-05-23 23:59 AoE|  |
+|Conference| 2025-12-15 to 2025-12-18 |  |
 | | |
-|**ICCV 2023** [URL](https://iccv2023.thecvf.com/) |  |
-|Paper submission deadline | 2023-03-08 (23:59 UTC) |   |
-|Supplementary material deadline| 2023-03-15 (23:59 UTC) |
-|Reviews released to authors| 2023-05-23 |
-|Rebuttal due| 2023-05-31 (23:59 UTC)|
-|Announcement of decisions | 2023-07-13 |
+|**EGSR 2026** [URL](https://egsr2026.inria.fr/)| | Countdown |
+|Abstract deadline | 2026-04-08 23:59 AoE| <span id="egsr26a"/> <script>countDownCell("2026-04-08T23:59-1200","egsr26a")</script> |
+|Papers deadline| 2026-04-15 23:59 AoE| <span id="egsr26"/> <script>countDownCell("2026-04-15T23:59-1200","egsr26")</script> |
+|Reviews released to authors| 2026-05-11 |
+|Rebuttals due| 2026-05-15 23:59 AoE| <span id="egsr26r"/> <script>countDownCell("2026-05-15T23:59-1200","egsr26r")</script> |
+|Author notification| 2026-05-25 |
+|Final papers due| 2026-06-10 |
+|Conference| 2026-07-01 to 2026-07-03 |
 | | |
-|**SIGGRAPH 2023** [URL](https://s2023.siggraph.org/program/technical-papers/) |  |
-|Paper submission deadline | 2023-01-25 (22:00 UTC) |  |
-|Reviews released to authors| 2023-03-05 |
-|Rebuttal due|  2023-03-10 (22:00 UTC)|   |
-|Announcement of decisions | 2023-03-27 |
-|Revised paper deadline | 2023-04-25 |
-|Final version deadline | 2023-05-02 |
-|Fastforward deadline | 2023-07-07 |
-|Official publication date | 2023-07-23 |
+|**PG 2025** [URL](https://pg2025.nccu.edu.tw/)| | Countdown |
+|Abstract deadline | 2025-05-30 23:59 AoE|  |
+|Papers deadline| 2025-06-06 23:59 AoE|  |
+|Author notification| 2025-08-08 |  |
+|Final papers due| 2025-08-23 |  |
+|Conference| 2025-10-14 to 2025-10-17 |  |
 
